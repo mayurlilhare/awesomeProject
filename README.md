@@ -4,4 +4,3 @@
 
 # hii, I'm dev usernameXD, new develpoer for this repo. hii my name is mayur.
 # money= time + effort
-# hii, I'm dev usernameXD, new developer for this repo, this is just a revision check.
