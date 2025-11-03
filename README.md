@@ -2,4 +2,4 @@
 
 # I'm lead dev, all users mention their name after this line
 
-# now i am making changes
+# hii, I'm dev usernameXD, new develpoer fot this repo.
